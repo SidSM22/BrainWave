@@ -1,3 +1,4 @@
+// Reusable Section for Hero and Other sections
 import React from "react";
 import SectionSvg from "../assets/svg/SectionSvg";
 const Section = ({
