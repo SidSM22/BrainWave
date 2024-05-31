@@ -12,3 +12,5 @@ const App = () => {
 };
 
 export default App;
+
+// Main App js contains all the sections 
